@@ -1,5 +1,4 @@
 function StartScreen({ numQuestions, dispatch }) {
-  console.log(numQuestions);
   return (
     <div className="start">
       <h2>Welcome to The React Quiz!</h2>
